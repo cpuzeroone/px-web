@@ -1,16 +1,14 @@
-# Px Token
 ## Lightpaper 1.0
-Mastering Vite's ecosystem dividends
 
 ## Vite Ecosystem overview
-Vite is a next-generation high-throughput, low-latency, and highly-scalable network. Vite uses a Directed Acyclic Graph (DAG) ledger structure, which enables fast and feeless transactions of Vite coins and tokens created within its network. Vite's DAG structure is much more energy efficient compared to many other cryptocurrencies.
+Vite is a next-generation high-throughput, low-latency, and highly-scalable network. Vite uses a Directed Acyclic Graph (DAG) ledger structure, which enables fast and feeless transactions of Vite coins and tokens created within its network. Vite's DAG structure is much more "green" (energy efficient) compared to many other cryptocurrencies.
 
-Vite's team also develops and manages ViteX, a DEX app running on Vite blockchain. It is so tightly integrated with a VITE coin that it's even a part of the official Vite Wallet app. ViteX has it's own utility token, VX. VX is used to incentivize usage of the DEX in a different ways. Holders of the VX are eligible for rewards from a trading fees collected by ViteX. More information on ViteX and VX is awailable on [official site](https://vitex.net/faq).
+Vite's team also develops and manages [ViteX](https://vitex.net), a DEX app running on Vite blockchain. It is so tightly integrated with Vite Coin (VITE) that it's even a part of the official Vite Wallet apps. ViteX has it's own utility token, VX. VX is used to incentivize usage of the DEX in a different ways. Holders of the VX are eligible for rewards from a trading fees collected by ViteX. More information on ViteX and VX is awailable on [official site](https://vitex.net/faq).
 
 ## Opportunity
-The Px team is heavily betting on Vite and ViteX success. We think that specifically VX token is heavily undervalued. As the Vite ecosystem evolves and gets it's adoption of the built in DEX should also increase. That will drive exchange revenue up and so will VX holders rewards. Unlike VITE, VX is a fixed supply token with no inflation, so there is almost no non-catastrophic reasons for both token price and rewards to go down.
+Px Team ("we") is heavily betting on Vite Team and ViteX DEX success. We think that specifically VX token is currently heavily undervalued. As the Vite ecosystem evolves and gets it's adoption of the built in DEX should also increase. That will drive exchange revenue up and so will VX holders rewards. Unlike VITE, VX have a fixed supply of 29,328,807.8 tokens with no inflation, so there is almost no non-catastrophic reasons for both token price and rewards to go down.
 
-We see an opportunity in accumulating a substantial amount of VX, staking it and receiving BTC, ETH and USDT in rewards. Why it's important for amount of VX to be *substantial*? This is all about magic of a complex percent. The problem is that amount of each of BTC, ETH, USDT distributed each day is too small for instant reinvestment. Specifically the amount must be larger than minimum ViteX order value, so that BTC, ETH and USDT can be exchanged again for VX which can be reinvestment in stake. Daily reinvestment will give you a major advantage in a long run. But not only that. VX distribution is very limited in supply and time. Ever dropping VX distribution will end in September 2027. So the sooner and faster you will "mine" VX the more you will get. More to that, we can speculate VX price will only grow in time as ViteX will grow in price, resulting in VX holdings to become large asset which is just nice to have! However even if it doesn't grow in price or even become less, we will still have nice income as dividends.
+We see an opportunity in accumulating a substantial amount of VX, staking it and receiving BTC, ETH and USDT in rewards. Why it's important for amount of VX to be *substantial*? This is all about magic of a complex percent. The problem is that amount of each of BTC, ETH, USDT distributed each day is too small for instant reinvestment. Specifically the amount must be larger than minimum ViteX order value, so that BTC, ETH and USDT can be exchanged again for VX which can be reinvestment in stake. Daily reinvestment will give you a major advantage in a long run. But not only that. VX distribution is very limited in supply and time. Ever dropping VX distribution pool will end approximately in September 2027. So the sooner and faster you will start "mining" VX the more you will get. More to that, we can speculate that VX price will only grow in time as ViteX will grow in size. As a result VX holdings will become larger asset which is just nice to have! However even if it doesn't grow in price or even become less, it will still produce a nice income as dividends for you.
 
 So Px idea is pretty simple:
 1. Gather a pool of assets (pool is required for daily reinvestment);
@@ -20,8 +18,7 @@ This is an asset management system in one of it's simple forms.
 
 ## Values
 ### Pragmatic (anti-hype) and safe
-Px has nothing to do with hype. This token will not (probably) "moon" you anywhere. Don't expect daily news. It's about getting sustainable income with a "magic" of complex percent.
-Needless to say Px investments prefer a "safe-bet" type investments, with a rare exceptions.
+Px has nothing to do with hype. This token will not (probably) "moon" you anywhere. Don't expect daily news. It's about getting sustainable income with a "magic" of complex percent. Needless to say Px Team prefer a "safe-bet" type investments.
 
 ### Community natural growth
 Naturally related to previous one. We don't force or proactively incentivize anyone to purchase Px tokens. This ideally should be DYOR type decision for a like-minded people.
@@ -36,17 +33,22 @@ Burning of tokens is not planned and prohibited for everyone except the team.
 
 ### Distribution
 Following numbers may change before distribution starts.
-- Team: 20%;
-- Distribution sale: 80%.
+- Team: 20% (team share);
+- Distribution sale: 80% (common share).
 The "Team" part covers all additional expenses should they ever come.
-Also "Team" have "initial stake" of ?,000 VITE in the project.
+Also "Team" have "initial stake" of 46,000 VITE in the project.
 
 ### Reinvestment
-As team is dedicated to Px value growth and project main idea, all 20% of the team share are reinvested into pool initially.
-After last token is distributed, 1% are unlocked for the team at the end of each quarter, i.e. it will be fully unlocked after 5 years (4% a year). Unlocked dividends part are free to use for the team. There is a high chance that unlocked part will be used for buyback operations or used for reinvestment.
+Team shows its dedication to Px value growth and project main idea by reinvesting all of it's 20% share into pool initially.
+After last token is distributed, 0.5% are unlocked for the team at the end of each quarter, i.e. it will be fully unlocked after 10 years (2% a year). Unlocked team share bahaves like a common share.
+Another reinvestment part will be done from investors' share (25% of it).
+So in other words:
+- Teams shares: 100% reinvestment.
+- Common shares: 25% reinvestment.
 
 ### Dividends
-Dividends are paid on weekly basis. For now they are currently planned to be pain in VX and VITE.
+Dividends are paid on weekly basis. For now they are currently planned to be paid in VX and VITE.
+Only common shares are eligible for dividends.
 
 ### Initial investment strategy
 Below is investment strategy which is planned to be initially implemented by the project:
@@ -68,13 +70,13 @@ By the end of the phase all Px tokens should have been distributed.
 Now then we have full pool at our disposal, we can make strategic decisions on investments and enjoy "snowball" effect.
 
 ### 4. Buyback (2023-2027)
-As mentioned before each quarter 0.5% of the dividends share will be released for the team. They are free for the team to use, but most of it will be used for market buyback operations. Larger team share size will allow further increase both reinvestment and buyback.
+As mentioned before each quarter 0.5% of the dividends share will be released for the team as common shares. They are free for the team to use (as any common share), but some of its dividends will be used for market buyback operations. Larger team share size will allow further increase of both reinvestment and buyback.
 
 ### 5. Project termination (2027-?)
-Final distribution of the accumulated funds will happen eventually and shareholders will receive proportional part of the accumulated funds (should be mostly VX).
+Final distribution of the accumulated stake funds will happen eventually and shareholders will receive proportional part of the accumulated funds (should be mostly VITE and VX).
 After that Px token will have no practical value.
 
-## Summary
+## Project summary
 - Px is an asset management system;
 - Px is focused on safe investments in core Vite ecosystem token VX and VITE coin;
 - Px have a clearly defined lifecycle of about 5 years;
