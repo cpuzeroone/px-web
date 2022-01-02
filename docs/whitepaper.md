@@ -33,22 +33,21 @@ Burning of tokens is not planned and prohibited for everyone except the team.
 
 ### Distribution
 Following numbers may change before distribution starts.
-- Team: 20% (team share);
-- Distribution sale: 80% (common share).
+- Team: 20% (20M, team share);
+- Distribution sale: 80% (80M, common share).
 The "Team" part covers all additional expenses should they ever come.
 Also "Team" have "initial stake" of 46,000 VITE in the project.
 
 ### Reinvestment
-Team shows its dedication to Px value growth and project main idea by reinvesting all of it's 20% share into pool initially.
-After last token is distributed, 0.5% are unlocked for the team at the end of each quarter, i.e. it will be fully unlocked after 10 years (2% a year). Unlocked team share bahaves like a common share.
-Another reinvestment part will be done from investors' share (25% of it).
+Team shows its dedication to Px value growth and project main idea by reinvesting all of it's 20% share into pool initially. After last token is distributed, at the end of each quarter, 500K PX of the team share are converted to common share. So only half of it will be "unlocked" after 5 years (project lifetime).
+Another reinvestment part will come from common shares (25% of it).
 So in other words:
 - Teams shares: 100% reinvestment.
 - Common shares: 25% reinvestment.
 
 ### Dividends
 Dividends are paid on weekly basis. For now they are currently planned to be paid in VX and VITE.
-Only common shares are eligible for dividends.
+Only common shares are eligible for dividends (because team shares are 100% reinvested).
 
 ### Initial investment strategy
 Below is investment strategy which is planned to be initially implemented by the project:
@@ -63,21 +62,21 @@ Testing of the rewards distribution is performed with interested participants.
 ### 2. Distribution (Q2-Q4 2022)
 We have a very unusual distribution model we are proud of.
 The distribution will be performed via sell of the tokens on ViteX exchange.
-The sell will come in batches of 1M tokens, each batch sold daily. Initial batch 1 price will be 0.023 VITE per 1 PX, and will increase by 0,001 on each batch with batch 80 price being 0.102 VITE per 1 PX.
+The sell will come in batches of 1M tokens, each batch sold daily. Initial batch 1 price will be 0.023 VITE per PX, and will increase by 0,001 on each batch with batch 80 price being 0.102 VITE per PX.
 By the end of the phase all Px tokens should have been distributed.
 
 ### 3. Growth (2022-2027)
 Now then we have full pool at our disposal, we can make strategic decisions on investments and enjoy "snowball" effect.
 
 ### 4. Buyback (2023-2027)
-As mentioned before each quarter 0.5% of the dividends share will be released for the team as common shares. They are free for the team to use (as any common share), but some of its dividends will be used for market buyback operations. Larger team share size will allow further increase of both reinvestment and buyback.
+As mentioned before, each quarter 500K PX of the team share will be released for the as common shares. They are free for the team to use (as any common share), but some of its dividends will be used for market buyback operations. Larger team share size will allow further increase of both reinvestment and buyback.
 
 ### 5. Project termination (2027-?)
-Final distribution of the accumulated stake funds will happen eventually and shareholders will receive proportional part of the accumulated funds (should be mostly VITE and VX).
+Final distribution of the accumulated stake funds will happen eventually and token holders will receive proportional part of the accumulated funds (should be mostly VITE and VX).
 After that Px token will have no practical value.
 
 ## Project summary
-- Px is an asset management system;
+- Px is an asset management project;
 - Px is focused on safe investments in core Vite ecosystem token VX and VITE coin;
 - Px have a clearly defined lifecycle of about 5 years;
 - Px success is dependent on Vite ecosystem success, we bet on Vite and ViteX.
