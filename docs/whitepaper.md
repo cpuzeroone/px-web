@@ -1,5 +1,6 @@
-Px: Mastering Vite's Ecosystem dividends.
-Lightpaper 1.0
+# Px Token
+## Lightpaper 1.0
+Mastering Vite's ecosystem dividends
 
 ## Vite Ecosystem overview
 Vite is a next-generation high-throughput, low-latency, and highly-scalable network. Vite uses a Directed Acyclic Graph (DAG) ledger structure, which enables fast and feeless transactions of Vite coins and tokens created within its network. Vite's DAG structure is much more energy efficient compared to many other cryptocurrencies.
