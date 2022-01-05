@@ -55,7 +55,7 @@ Below is investment strategy which is planned to be initially implemented by the
 
 ### Team incentivize points
 Team receives 25% of final distribution *rewards* (doesn't include initial PX Pool staking funds).
-Also team receives rewards from ViteX activities (operations wallet will get team invitation code).
+Also team receives rewards from ViteX "mining" activities (operations wallet will use team invitation code).
 
 ## Roadmap (Project phases)
 ### 0. Preparation (~ Q1-Q3 2022)
