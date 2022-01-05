@@ -67,8 +67,8 @@ Also team receives rewards from ViteX activities (operations wallet will get tea
 The distribution will be performed in 2 ways:
 1. Large investors (1M PX or more) presale (sale window TBD);
 2. Sell of the remaining tokens on ViteX exchange.
-Planned price is 0.05 VITE, but this is not settled yet.
 Obviously by the time of ViteX distribution project will be listed on ViteX.
+Planned distribution price (any stage) is 0.1 VITE, but this is not settled yet. That price will result in 10M VITE market cap value. Working with an assets below that seems less practicaly reasonable (as we want to reach daily reinvestment phase fast). 
 
 ### 2. Growth (~ 2022-2027)
 Now then we have full pool (hopefully) at our disposal, we can make strategic decisions on investments and enjoy "snowball" effect.
